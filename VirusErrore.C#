@@ -1,0 +1,2010 @@
+using System;
+using System.Diagnostics;
+using System.Windows.Forms;
+
+class Program
+{
+    static void Main()
+    {
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+                try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        try
+        {
+            // Errore
+            throw new Exception("Errore generico");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Important Message: " + ex.Message + Environment.NewLine +
+                "Questo virus non è un gioco. Vuoi continuare?.", "Important Message", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+        }
+    }
+}
